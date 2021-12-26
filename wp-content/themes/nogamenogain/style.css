@@ -1,0 +1,16 @@
+/*!
+Theme Name: nogamenogain
+Theme URI: https://nogamenogain.com/
+Author: aintalike
+Author URI: https://t.me/aintalike
+Tested up to: 5.4
+Requires PHP: 5.6
+Text Domain: nogamenogain
+*/
+
+/*--------------------------------------------------------------
+# Normalize
+--------------------------------------------------------------*/
+body {
+	margin: 0;
+}
